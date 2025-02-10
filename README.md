@@ -34,8 +34,8 @@ The script recursively scans a directory for code files and generates a Markdown
    If you are using Git, you can clone this repository to your local machine:
 
    ```bash
-   git clone [repository URL]
-   cd [repository directory]
+   git clone https://github.com/Vanillabacke/codeprompt.git
+   cd codeprompt
    ```
 
 2. **Ensure Python is installed:**
